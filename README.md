@@ -1,2 +1,22 @@
 # GamingUI
 A short UI design description of Android Mockup.
+![3 2](https://user-images.githubusercontent.com/98172845/198899992-0bb5fa09-8a99-42fb-bc8c-29995ebd3a12.png)
+![3 3 1](https://user-images.githubusercontent.com/98172845/198899993-b3832d4b-4df0-4b70-8179-8c5dd57f05ef.png)
+![3 3](https://user-images.githubusercontent.com/98172845/198899996-1feb30e9-f5ff-4df3-a147-06bc2b7aabc9.png)
+![3
+![Stream](https://user-images.githubusercontent.com/98172845/198900017-f73e818b-f50f-4c62-9497-cadd66abb351.png)
+![Stream_1](https://user-images.githubusercontent.com/98172845/198900019-be1d6305-6a69-472b-bf32-1c4284df342d.png)
+![GamePlay](https://user-images.githubusercontent.com/98172845/198900020-fbedd602-0a8f-4d44-9bf6-f198057248ad.png)
+![Gaming_1](https://user-images.githubusercontent.com/98172845/198900021-18118dd1-87bf-4ce0-8916-30acbf280797.png)
+![Opening](https://user-images.githubusercontent.com/98172845/198900023-b2c00efb-4d92-4b50-93b1-aec92ef688ed.png)
+](https://user-images.githubusercontent.com/98172845/198899997-e91a8db0-4851-4d9d-8268-c3ec69f64b05.png)
+![2](https://user-images.githubusercontent.com/98172845/198899998-c23bef1a-1736-4dd1-8527-a2ef2f9487e8.png)
+![3 1 1](https://user-images.githubusercontent.com/98172845/198899999-742d0412-9f13-411d-8333-075f1f8b4e26.png)
+![3 1 2](https://user-images.githubusercontent.com/98172845/198900000-c6693102-bfb2-4584-abcd-6bacbf5de53e.png)
+![3 1 3](https://user-images.githubusercontent.com/98172845/198900001-4652efdd-726a-45ba-8be4-2936fd91cc03.png)
+![3 1 4](https://user-images.githubusercontent.com/98172845/198900002-29636545-f901-47c6-8535-f23b37b47948.png)
+![3 1](https://user-images.githubusercontent.com/98172845/198900003-65a501ba-bb9f-4f08-aa11-91ee69daca51.png)
+![3 2 1](https://user-images.githubusercontent.com/98172845/198900004-67df5532-d6b5-4e74-b25c-1d5440ba507d.png)
+![3 2 2](https://user-images.githubusercontent.com/98172845/198900005-e4333fdf-861c-4ede-ad31-125807c1c6fb.png)
+![3 2 3](https://user-images.githubusercontent.com/98172845/198900007-eabc7a0e-c41a-4ddc-949a-8b83dffc6d51.png)
+![3 2 4](https://user-images.githubusercontent.com/98172845/198900008-82b29aa3-603b-4ccb-9f7c-cc860cc98150.png)
